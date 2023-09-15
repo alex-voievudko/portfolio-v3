@@ -50,13 +50,12 @@ export const Header = () => {
 							style={subheaderSpring}
 							className='text-2xl bg-clip-text text-transparent bg-primary font-semibold tracking-tight'
 						>
-							Full Stack Developer
+							Frontend Developer
 						</animated.h2>
 					</div>
 				</div>
 				<animated.p style={paragraphSpring} className='max-w-md'>
-					Experienced Frontend and Fullstack TypeScript Developer, specializing in React, Node.js, and TypeScript, with
-					over 1 year of commercial expertise and a passion for crafting user-centric applications.
+					Experienced front end software engineer focused on building accessible products for the web
 				</animated.p>
 
 				<Navigation />
