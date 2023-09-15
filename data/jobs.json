@@ -1,0 +1,83 @@
+[
+    {
+        "date": "Oct 2022 - Present",
+        "title": "Junior Frontend Developer",
+        "company": "ZeptoLab",
+        "companyLink": "https://zeptolab.com/",
+        "description": "Developed internal tools using technologies like Nest.js, Postgres, Prisma, React, Gatsby.js, and styled-components. I also created careers.zeptolab.com to improve the hiring process. Currently, I'm working on tools using TypeScript, React, Redux, GraphQL, Nest.js, Material UI, and Chakra UI to enhance team productivity. I excel in delivering high-quality, scalable solutions while collaborating with cross-functional teams. I stay updated with industry trends and prioritize continuous learning to drive innovation and success.",
+        "technologies": [
+            "React",
+            "TypeScript",
+            "Next.js",
+            "Gatsby.js",
+            "Styled-Components",
+            "GraphQL",
+            "Nest.js",
+            "Redux",
+            "Tailwind CSS",
+            "Apollo Client",
+            "Material UI",
+            "Chakra UI",
+            "Postgres",
+            "Prisma"
+        ]
+    },
+    {
+        "date": "Dec 2020 - Jul 2022",
+        "title": "Player XP Team Lead",
+        "company": "Tilting Point",
+        "companyLink": "https://tiltingpoint.com/",
+        "description": "Built and led high-performing teams, consistently delivering exceptional player experiences. I aligned team goals with business objectives and industry best practices, effectively communicated clear goals, conducted annual reviews, and cultivated a high-performance culture. I closely monitored day-to-day operations to ensure timely and high-quality service delivery, mentored new team members to drive overall success, and implemented technology and automation solutions that led to cost savings and enhanced player satisfaction. Throughout, I fostered positive relationships, encouraged innovation, teamwork, and a commitment to continuous improvement.",
+        "technologies": [
+            "Zendesk",
+            "HelpShift",
+            "Jira",
+            "Confluence",
+            "Asana",
+            "Slack",
+            "Google Sheets",
+            "Google Docs",
+            "Google Data Studio",
+            "Google Slides"
+        ]
+    },
+    {
+        "date": "Aug 2019 - Dec 2020",
+        "title": "Project Manager",
+        "company": "Plarium",
+        "companyLink": "https://plarium.com/",
+        "description": "Led the ChatBot project to enhance Customer Support productivity and implemented a machine learning tool for Google Play reviews, resulting in a 66% increase in processed reviews. Additionally, I coordinated development projects for plarium.com across teams, managed project timelines within budget, gathered project requirements from stakeholders, and established optimized work schedules using agile methodologies. I also collaborated with internal associates and departments and generated productivity reports to guide decision-making.",
+        "technologies": [
+            "Jira",
+            "Confluence",
+            "Slack",
+            "Google Sheets",
+            "Google Docs",
+            "Google Slides"
+        ]
+    },
+    {
+        "date": "Dec 2018 - Aug 2019",
+        "title": "Community Management Lead",
+        "company": "Plarium",
+        "companyLink": "https://plarium.com/",
+        "description": "Assisted the director in leading and managing a team of 53 members, emphasizing collaboration and teamwork. I enhanced team processes, resulting in increased productivity, efficiency, and customer satisfaction. I also played a role in developing and implementing strategic plans for departmental growth and success. In addition, I set and communicated both short-term and long-term team goals to foster a high-performance culture. I ensured that teams had the necessary technical resources and tools for delivering high-quality services. Lastly, I provided regular reports and analyses on departmental performance to support data-driven decision-making.",
+        "technologies": null
+    },
+    {
+        "date": "Oct 2015 - Dec 2018",
+        "title": "Senior CS Team Lead",
+        "company": "Plarium",
+        "companyLink": "https://plarium.com/",
+        "description": "Led and coached three Team Leads, fostering a culture of excellence and collaboration. I analyzed data to identify strategies for enhancing service and productivity, and successfully implemented improvements. Additionally, I introduced a new help desk system and internal tools, resulting in improved efficiency and customer satisfaction. Furthermore, I integrated the help desk system into multiple game titles, enabling instant support for players. To increase team productivity and reduce workload, I automated routine tasks. Lastly, I established a knowledge base to decrease ticket volume and improve response times.",
+        "technologies": null
+    },
+    {
+        "date": "Apr 2014 - Oct 2015",
+        "title": "Customer Support Team Lead",
+        "company": "Plarium",
+        "companyLink": "https://plarium.com/",
+        "description": "Led and managed a team of 20 customer service agents, fostering excellence and teamwork. I efficiently planned work tasks, conducted staff evaluations, and developed training programs to maintain high standards. I implemented policies and resolved escalated issues, ensuring customer satisfaction and loyalty.",
+        "technologies": null
+    }
+]
