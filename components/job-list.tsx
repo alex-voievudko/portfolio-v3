@@ -18,9 +18,7 @@ export const Jobs = () => {
 				/>
 			))}
 			<div className='lg:p-4 flex w-full sm:justify-end'>
-				<Button href='https://drive.google.com/file/d/1v6zQ4gX3ZnYh4q9fZQb3LkYxjO7pZc3H/view?usp=sharing'>
-					View Full Resume
-				</Button>
+				<Button href='/resume.pdf'>View Full Resume</Button>
 			</div>
 		</ul>
 	);

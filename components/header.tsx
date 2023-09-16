@@ -50,12 +50,13 @@ export const Header = () => {
 							style={subheaderSpring}
 							className='text-2xl bg-clip-text text-transparent bg-primary font-semibold tracking-tight'
 						>
-							Frontend Developer
+							Front-End Developer
 						</animated.h2>
 					</div>
 				</div>
 				<animated.p style={paragraphSpring} className='max-w-md'>
-					Experienced front end software engineer focused on building accessible products for the web
+					Experienced front-end software engineer with a passion for building accessible and user-friendly web products.
+					I&apos;m dedicated to creating elegant solutions that enhance the user experience
 				</animated.p>
 
 				<Navigation />

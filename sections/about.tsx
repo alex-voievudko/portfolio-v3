@@ -17,10 +17,7 @@ export const AboutSection = () => {
 					</p>
 				))}
 
-				<Button
-					href='https://drive.google.com/file/d/1v6zQ4gX3ZnYh4q9fZQb3LkYxjO7pZc3H/view?usp=sharing'
-					className='mt-3'
-				>
+				<Button href='/resume.pdf' className='mt-3'>
 					Download Resume
 				</Button>
 			</div>

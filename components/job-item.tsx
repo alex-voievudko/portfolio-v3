@@ -41,7 +41,13 @@ export const JobItem = ({ date, title, company, companyLink, description, techno
 							{title} · {company} <FaArrowUpRightFromSquare className='inline-block ml-2 text-xs' />
 						</a>
 					</h3>
-					<p className='text-sm leading-normal mb-2'>{description}</p>
+					<ul>
+						{description.split('\n').map((item, index) => (
+							<li key={`${item.slice(0, 5)}-${index}`} className='text-sm leading-normal mb-2'>
+								{item}
+							</li>
+						))}
+					</ul>
 					{technologies && (
 						<ul className='flex flex-wrap gap-1.5 pointer-events-none' aria-label='Technologies used'>
 							{technologies.map((technology, index) => (
