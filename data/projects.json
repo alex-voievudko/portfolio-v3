@@ -3,7 +3,7 @@
         "title": "Portfolio V3",
         "description": "Explore my sleek and modern portfolio showcasing the latest in web development and technology. Built with Next.js 13, Tailwind CSS, and React Spring for animations.",
         "preview": "/images/portfolio-v3.png",
-        "github": "https://github.com/alex-voievudko/portfolio-v2",
+        "github": "https://github.com/alex-voievudko/portfolio-v3",
         "live": "https://alexvoievudko.com/",
         "technologies": [
             "React",
