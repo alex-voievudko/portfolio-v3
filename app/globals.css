@@ -4,7 +4,7 @@
 
 @layer base {
   ::selection {
-    @apply bg-secondary;
+    @apply bg-secondary/20;
   }
 
   ::-webkit-scrollbar {
@@ -16,7 +16,7 @@
   }
 
   ::-webkit-scrollbar-thumb {
-    @apply bg-secondary rounded-full;
+    @apply bg-secondary/10 rounded-lg;
   }
 
   ::-webkit-scrollbar-thumb:hover {
