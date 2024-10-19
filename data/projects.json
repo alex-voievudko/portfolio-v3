@@ -1,72 +1,42 @@
 [
-    {
-        "title": "Portfolio V3",
-        "description": "Explore my sleek and modern portfolio showcasing the latest in web development and technology. Built with Next.js 13, Tailwind CSS, and React Spring for animations.",
-        "preview": "/images/portfolio-v3.png",
-        "github": "https://github.com/alex-voievudko/portfolio-v3",
-        "live": "https://alexvoievudko.com/",
-        "technologies": [
-            "React",
-            "TypeScript",
-            "Next.js",
-            "Tailwind CSS",
-            "React Spring"
-        ]
-    },
-    {
-        "title": "Portfolio V2",
-        "description": "Dive into my portfolio v2 to discover my diverse web development projects and skills. Powered by Gatsby.js, Styled Components, and Framer Motion for smooth page transitions and animations.",
-        "preview": "/images/portfolio-v2.png",
-        "github": "https://github.com/alex-voievudko/portfolio-v2",
-        "live": "https://v2.alexvoievudko.com/",
-        "technologies": [
-            "React",
-            "TypeScript",
-            "Gatsby",
-            "GraphQL",
-            "Styled-Components",
-            "Framer Motion"
-        ]
-    },
-    {
-        "title": "ZeptoLab Careers",
-        "description": "I led the development of Zeptolab's dynamic Careers Website, leveraging Gatsby and Styled Components to craft a visually engaging and user-friendly platform. The website seamlessly integrated with the Workable API, streamlining the application process for potential candidates. This project demonstrates my commitment to enhancing user experiences and contributing to Zeptolab's digital presence.",
-        "preview": "/images/careers.png",
-        "github": null,
-        "live": "https://careers.zeptolab.com/",
-        "technologies": [
-            "React",
-            "TypeScript",
-            "Gatsby",
-            "GraphQL",
-            "Styled-Components",
-            "Framer Motion"
-        ]
-    },
-    {
-        "title": "Portfolio V1",
-        "description": "My Overy old portfolio, a project I built when I was starting my journey as a developer. This early showcase reflects my initial foray into creating engaging web experiences, showcasing my progress and passion for the craft. Explore the beginnings of my work and witness the growth of my skills and creativity over time.",
-        "preview": "/images/portfolio-v1.png",
-        "github": "https://github.com/alex-voievudko/portfolio",
-        "live": "https://alex-voievudko.github.io/portfolio/",
-        "technologies": [
-            "React",
-            "JavaScript",
-            "Tailwind CSS"
-        ]
-    },
-    {
-        "title": "World of Games",
-        "description": "captivating portfolio project I created with user registration/login functionality and a powerful RAWG API-powered dashboard.",
-        "preview": "/images/world-of-games.png",
-        "github": "https://github.com/alex-voievudko/world-of-games-app",
-        "live": "https://630373690c37ff00a8b2348c--world-of-games.netlify.app/",
-        "technologies": [
-            "React",
-            "JavaScript",
-            "Redux",
-            "Material UI",
-            "Firebase"
-        ]
-    }
+  {
+    "title": "Portfolio V3",
+    "description": "Explore my sleek and modern portfolio showcasing the latest in web development and technology. Built with Next.js 13, Tailwind CSS, and React Spring for animations.",
+    "preview": "/images/portfolio-v3.png",
+    "github": "https://github.com/alex-voievudko/portfolio-v3",
+    "live": "https://alexvoievudko.com/",
+    "technologies": ["React", "TypeScript", "Next.js", "Tailwind CSS", "React Spring"]
+  },
+  {
+    "title": "Portfolio V2",
+    "description": "Dive into my portfolio v2 to discover my diverse web development projects and skills. Powered by Gatsby.js, Styled Components, and Framer Motion for smooth page transitions and animations.",
+    "preview": "/images/portfolio-v2.png",
+    "github": "https://github.com/alex-voievudko/portfolio-v2",
+    "live": "https://v2.alexvoievudko.com/",
+    "technologies": ["React", "TypeScript", "Gatsby", "GraphQL", "Styled-Components", "Framer Motion"]
+  },
+  {
+    "title": "ZeptoLab Careers",
+    "description": "I led the development of Zeptolab's dynamic Careers Website, leveraging Gatsby and Styled Components to craft a visually engaging and user-friendly platform. The website seamlessly integrated with the Workable API, streamlining the application process for potential candidates. This project demonstrates my commitment to enhancing user experiences and contributing to Zeptolab's digital presence.",
+    "preview": "/images/careers.png",
+    "github": null,
+    "live": "https://careers.zeptolab.com/",
+    "technologies": ["React", "TypeScript", "Gatsby", "GraphQL", "Styled-Components", "Framer Motion"]
+  },
+  {
+    "title": "Portfolio V1",
+    "description": "My Overy old portfolio, a project I built when I was starting my journey as a developer. This early showcase reflects my initial foray into creating engaging web experiences, showcasing my progress and passion for the craft. Explore the beginnings of my work and witness the growth of my skills and creativity over time.",
+    "preview": "/images/portfolio-v1.png",
+    "github": "https://github.com/alex-voievudko/portfolio",
+    "live": "https://alex-voievudko.github.io/portfolio/",
+    "technologies": ["React", "JavaScript", "Tailwind CSS"]
+  },
+  {
+    "title": "World of Games",
+    "description": "captivating portfolio project I created with user registration/login functionality and a powerful RAWG API-powered dashboard.",
+    "preview": "/images/world-of-games.png",
+    "github": "https://github.com/alex-voievudko/world-of-games-app",
+    "live": "https://630373690c37ff00a8b2348c--world-of-games.netlify.app/",
+    "technologies": ["React", "JavaScript", "Redux", "Material UI", "Firebase"]
+  }
 ]
